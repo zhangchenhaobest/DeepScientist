@@ -1,3 +1,29 @@
+# DeepScientist
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Now, Stronger AI Pushes Frontiers, Stronger Our Shared Future.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+更强的 AI 推动科学前沿、共创共享未来的 DeepScientist 项目。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <h1 align="center" style="font-size: 3.25rem; line-height: 1.02; margin-bottom: 0.4rem;">
   <img src="assets/branding/logo.svg" alt="DeepScientist logo" width="50" />
   DeepScientist
